@@ -30,6 +30,3 @@ Created visualizations to support data-driven decisions.
 Conclusion
 
 This project demonstrates the use of data analytics and visualization techniques to evaluate Instagram performance and improve content strategy.
-Conclusion
-
-This project demonstrates the use of data analytics and visualization techniques to evaluate Instagram performance and improve content strategy.
